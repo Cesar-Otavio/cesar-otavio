@@ -1,4 +1,4 @@
-<p align="center">Olá, me chamo cesar e sou um desenvolvedor front-end, fiz curso na plataforma de ensino alura e tenho experiência com html, css, sass e javascript.Atualmente estou procurando alguma vaga de emprego para front-end júnior, neste perfil eu público alguns projetos de sites.</p>&nbsp;
+<p align="center">Olá, me chamo cesar e sou um desenvolvedor front-end, fiz curso na plataforma de ensino alura e tenho experiência com html, css, sass e javascript. Atualmente estou procurando vagas de emprego para front-end júnior, neste perfil eu público alguns projetos de sites.</p>&nbsp;
  
  &nbsp;
  &nbsp;
