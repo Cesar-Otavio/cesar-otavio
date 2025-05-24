@@ -1,9 +1,4 @@
-<p align="center">Olá, me chamo cesar e sou um desenvolvedor front-end, fiz curso na plataforma de ensino alura e tenho experiência com html, css, sass e javascript. Atualmente estou procurando vagas de emprego para front-end júnior, neste perfil eu público alguns projetos de sites.</p>&nbsp;
- 
- &nbsp;
- &nbsp;
-- Minhas Habilidades
-- principal:
+- Minhas Habilidades:
 <div style="display: inline_block"><br>
   <link rel="folha de estilo" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,12 +8,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
- 
- - Estudando neste momento:
- <div style="display: inline_block">
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div>
  
 - Ferramentas da estação de trabalho:
 
