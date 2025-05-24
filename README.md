@@ -25,6 +25,8 @@ Sou desenvolvedor frontend com foco em criar interfaces modernas, responsivas e 
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img align="center" alt="Notion" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
+
   <img align="center" alt="Microsoft To Do" height="30" width="40" src="https://img.icons8.com/color/48/microsoft-to-do-app.png" />
 </div>
 
