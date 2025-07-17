@@ -1,7 +1,7 @@
 <!-- Título opcional do perfil -->
 # Bem-vindo !
 
-Sou desenvolvedor frontend com foco em criar interfaces modernas, responsivas e de alta performance. tenha experiência em desenvolvimento web e atuei como Freelancer na **SpexTech**.
+Sou desenvolvedor Frontend com foco em criar interfaces modernas e responsivas, tenho experiência em desenvolvimento web e atuei como Freelancer na **SpexTech**.
 ---
 
 ### Minhas Habilidades:
