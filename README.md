@@ -1,8 +1,7 @@
 <!-- Título opcional do perfil -->
 # Bem-vindo !
 
-Sou desenvolvedor frontend com foco em criar interfaces modernas, responsivas e de alta performance. Com mais de 2 anos de experiência em desenvolvimento web, fundei a **SpexTech**, onde atuei como CEO e Co-fundador, entregando projetos utilizados diariamente por diversos usuários e empresas.
-
+Sou desenvolvedor frontend com foco em criar interfaces modernas, responsivas e de alta performance. Com mais de 2 anos de experiência em desenvolvimento web, na **SpexTech** atuei como Freelancer.
 ---
 
 ### Minhas Habilidades:
